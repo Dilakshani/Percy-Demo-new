@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brandiqa/percyscript-demo.git"
+    "url": "git+https://github.com/Dilakshani/Percy-Demo-new.git"
   },
   "keywords": [],
-  "author": "Michael Wanyoike",
+  "author": "Lisanka Nagahatenna",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brandiqa/percyscript-demo/issues"
+    "url": "https://github.com/Dilakshani/Percy-Demo-new/issues"
   },
-  "homepage": "https://github.com/brandiqa/percyscript-demo#readme",
+  "homepage": "https://github.com/Dilakshani/Percy-Demo-new#readme",
   "dependencies": {
     "axios": "^0.19.0",
     "body-parser": "^1.19.0",
@@ -31,5 +31,6 @@
     "semantic-ui-calendar": "0.0.8",
     "semantic-ui-css": "^2.4.1",
     "vanilla-router": "^1.2.7"
-  }
+  },
+  "devDependencies": {}
 }
