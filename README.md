@@ -11,7 +11,7 @@ This is a demo project that introduces beginners on how to perform visual testin
 You can use the **Git Clone** command or **Download Zip** option to download this project to your hard drive.
 
 ```bash
-git clone git@github.com:brandiqa/percyscript-demo.git
+git clone https://github.com/Dilakshani/Percy-Demo-new.git
 ```
 
 ### Step 2: Acquire API keys
@@ -41,7 +41,7 @@ SYMBOLS=EUR,USD,GBP,AUD,BTC,KES,JPY,CNY
 
 MIT License
 
-Copyright (c) 2019 Michael Wanyoike
+Copyright (c) 2021 Lisanka Nagahatenna
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
